@@ -1,6 +1,6 @@
 # SattaRavi/ama
 
-This is a quick little ask-[me](http://satta.me/about)-anything type of repository. It is forked from @holman's feedback repo and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
+This is a quick little ask-[me](http://satta.me/page/about/)-anything type of repository. It is forked from @holman's feedback repo and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
 ---
 
@@ -19,7 +19,7 @@ ask a question on any old issue too, even if you didn't create it.
 
 ### Read some questions
 
-Check out the [Closed Issues](https://github.com/notwaldorf/sattaravi/issues?q=is%3Aissue+is%3Aclosed)
+Check out the [Closed Issues](https://github.com/sattaravi/ama/issues?q=is%3Aissue%20is%3Aclosed)
 filter on this repository to browse questions I've answered in the past. I try
 to use this as an email replacement that everyone can see, so feel free to dig
 into some of the older threads.
