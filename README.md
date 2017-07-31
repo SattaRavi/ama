@@ -1,4 +1,4 @@
-# SattaRavi/ama
+# SattaRavi / ama
 
 This is a quick little ask-[me](http://satta.me/page/about/)-anything type of repository. It is forked from @holman's feedback repo and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
